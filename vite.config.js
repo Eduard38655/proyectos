@@ -4,6 +4,6 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"https://Eduard38655.github.io/proyectos"
+  base:"https://github.com/Eduard38655/proyectos.git"
 
 })
