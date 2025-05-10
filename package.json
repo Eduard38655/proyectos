@@ -8,4 +8,5 @@
   "build":"react-scripts build",
   "deploy":"gh-pages -d dist"},
 
-  "keywords":[],"author":"","license":"ISC","description":"","devDependencies":{"gh-pages":"^6.3.0"}}
+  "keywords":[],"author":"","license":"ISC",
+  "description":"","devDependencies":{"gh-pages":"^6.3.0"}}
